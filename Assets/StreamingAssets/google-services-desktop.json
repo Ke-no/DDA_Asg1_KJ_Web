@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "936302345123",
+    "firebase_url": "https://dda-asg1-kj-database-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dda-asg1-kj-database",
+    "storage_bucket": "dda-asg1-kj-database.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936302345123:android:73cfca2c6a4130c6063816",
+        "android_client_info": {
+          "package_name": "sg.edu.np.kj.dda2026"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5ed4RS65JcM5bpnNvbKSKw6Y2dcMmIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
