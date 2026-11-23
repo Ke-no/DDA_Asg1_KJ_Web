@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/ForgetPassScene.unity
     guid: 3e01e4391040c874c973fb7e921a1460
   - enabled: 1
-    path: Assets/Scenes/HomeScene.unity
+    path: Assets/Scenes/ScanPageScene.unity
     guid: 6293fda89b5a24249a9599bf7db170af
   - enabled: 1
     path: Assets/Scenes/SignupScene.unity
